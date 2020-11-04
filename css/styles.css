@@ -1,10 +1,10 @@
 body {
-  background-color:gray;
+  background-color: gray;
   color:white;
 }
+
 header {
-  color: blue;
-  margin-bottom:16px;
+  color: #0047AB;
   text-align: center;
 }
 
@@ -31,9 +31,13 @@ a:visited {
   color: orange;
 }
 
-div {
+a:active {
+  color: skyblue;
+}
+#content {
   border: 5px purple solid;
-  
+  padding: 30px;
+  margin: 20px;
 }
 
 main {
@@ -42,8 +46,8 @@ main {
 }
 
 footer {
-  font-size: .7em;
-  color: blue;
+  font-size: .6em;
+  color: black;
 }
 
 table {
@@ -78,7 +82,7 @@ ul {
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
-  font-size: 4em;
-  margin-bottom: 0px;
+  font-family: 'Anton', sans-serif;
+  font-size: 5em;
+  margin-bottom: 10px;
 }
