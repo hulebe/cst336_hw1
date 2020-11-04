@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-main, nav, footer {
+nav, footer {
   text-align: center;
 }
 
@@ -34,10 +34,13 @@ a:visited {
 a:active {
   color: skyblue;
 }
+
 #content {
+  color: black;
   border: 5px purple solid;
   padding: 30px;
   margin: 20px;
+  
 }
 
 main {
@@ -61,14 +64,6 @@ td {
 
 td strong {
   color: orange;
-}
-
-#table-header {
-  background-color: #351a00;
-}
-
-.table-row {
-  background-color: #753900;
 }
 
 ul {
