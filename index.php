@@ -21,7 +21,7 @@
     <main>
         
         <figure>
-            <img src="img/artificial-intelligence-companies.jpg" alt="Picture of Artificial Intelligence" />        
+            <img src="img/artificial-intelligence-companies.jpg" alt="Picture of Artificial Intelligence" />
         </figure>
         
         <div id="content">
@@ -38,15 +38,14 @@
     </main>
 
     <footer>
-         <hr>
+         <hr />
          <strong>Sources:</strong> 
-         <br>
+         <br />
          <a href="https://builtin.com/artificial-intelligence">https://builtin.com/artificial-intelligence</a>
          <br /> <br />
          CST336 Internet Programming. 2020&copy; Rodriguez <br />
          <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
          It is used for academic purposes only.   
-         <figure>
     </footer>    
     
     </body>
